@@ -1,6 +1,6 @@
 #### 1. Introduction
 
-Achieve nueral machine translation from German to English by using Pytorch and Multi30K dataset.
+Achieve nueral machine translation from German to English by using Pytorch and Multi30K dataset with data augmentation.
 
 #### 2.  Dependency requirements
 
