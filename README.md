@@ -28,4 +28,4 @@ Translate a certain sentence by a model. It will return the translated sentence.
 Can choose and change hyperparameters and compare their performance via val_loss.
 
 ```train()```:
-Train the ML model and plot a loss curve of the training set and validation. It will return the final val_loss.
+Train the ML model and plot a loss curve of the training set and validation set. It will return the final val_loss.
