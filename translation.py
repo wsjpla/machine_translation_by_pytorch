@@ -339,7 +339,7 @@ torch.cuda.manual_seed_all(RANDOM_SEED)
 torch.use_deterministic_algorithms(True)
 
 
-path_base = 'dataset-master/data/task1/raw/'
+path_base = 'dataset/'
 train_paths = ('train.de.gz', 'train.en.gz')
 val_paths = ('val.de.gz', 'val.en.gz')
 test_paths = ('test_2016_flickr.de.gz', 'test_2016_flickr.en.gz')
