@@ -9,7 +9,7 @@ TorchText
 
 #### 3. File path settings and folder structure
 
-The folder ''dataset-master'' is the Multi30K dataset we used in this project. The trained MT model and the translated texts of the test set will be saved in the same path as ```translation.py```.
+The folder ''dataset'' is the Multi30K dataset we used in this project. The trained MT model and the translated texts of the test set will be saved in the same path as ```translation.py```.
 
 #### 4. Running the code
 
