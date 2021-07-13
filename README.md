@@ -17,7 +17,7 @@ Directly run the code ```python translation.py```.
 The model willed be trained by using Multi30K and the trained model will be saved as ```model.pth```.
 A loss curve of the training set and validation set will be shown.
 The translated texts of the test set ```test_2016_flickr.de``` will be saved as ```tst.txt```.
-You can use ```test_en.txt``` and ```multi-bleu.perl``` to get the blue score.
+You can use ```test_en.txt``` and ```multi-bleu.perl``` to get the bleu score.
 
 #### 5. Some functions explainations
 
